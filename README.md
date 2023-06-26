@@ -1,6 +1,6 @@
-## Ola ! eu sou o Caio Farias 
+## Olá! Me chamo, Caio.
 
-- 🔭 Estou a procura de uma emprego como programador 
+- 🔭 Estou a procura de uma oportunidade como programador
 - 🌱 Estudando Java 
 - 🧾 Contate-me Email: caiofariasdavela@gmail.com
 
