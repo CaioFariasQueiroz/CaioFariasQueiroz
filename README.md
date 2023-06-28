@@ -1,4 +1,4 @@
-## Olá! Me chamo, Caio.
+## Olá!Eu  me chamo, Caio.
 
 - 🔭 Estou a procura de uma oportunidade como programador
 - 🌱 Estudando Java 
