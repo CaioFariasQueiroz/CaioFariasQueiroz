@@ -1,7 +1,7 @@
 ## Olá!Eu  me chamo, Caio.
 
 - 🔭 Estou a procura de uma oportunidade como Analisa de dados 
-- 🌱 Estudando Java 
+- 🌱 Estudando Python
 - 🧾 Contate-me Email: caiofariasdavela@gmail.com
 
 <div style="display: inline_block"><br>
