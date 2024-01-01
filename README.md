@@ -1,6 +1,6 @@
 ## Olá!Eu  me chamo, Caio.
 
-- 🔭 Estou a procura de uma oportunidade como Analisa de dados e programador
+- 🔭 Estou a procura de uma oportunidade como Analista de Dados e programador.
 - 🌱 Estudando Python
 - 🧾 Contate-me Email: caiofariasdavela@gmail.com
 
