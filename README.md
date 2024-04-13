@@ -1,4 +1,4 @@
-## Olá!Eu  me chamo, Caio.
+## Olá! Eu  me chamo, Caio.
 
 - 🔭 Estou a procura de uma oportunidade como Analista de Dados e programador.
 - 🌱 Estudando Python
